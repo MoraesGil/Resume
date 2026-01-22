@@ -41,7 +41,7 @@ const Hero: React.FC = () => {
             </div>
 
             <motion.a
-              href="#timeline"
+              href="#experience"
               whileHover={{ x: 5 }}
               className="inline-flex items-center text-primary font-semibold text-lg hover:underline underline-offset-4"
             >
